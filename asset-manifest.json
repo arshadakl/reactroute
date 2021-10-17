@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactroute/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactroute/static/js/main.04d1196d.chunk.js",
-    "main.js.map": "/reactroute/static/js/main.04d1196d.chunk.js.map",
-    "runtime-main.js": "/reactroute/static/js/runtime-main.487dcdb4.js",
-    "runtime-main.js.map": "/reactroute/static/js/runtime-main.487dcdb4.js.map",
-    "static/js/2.dc24fc8c.chunk.js": "/reactroute/static/js/2.dc24fc8c.chunk.js",
-    "static/js/2.dc24fc8c.chunk.js.map": "/reactroute/static/js/2.dc24fc8c.chunk.js.map",
-    "static/js/3.22ade9d6.chunk.js": "/reactroute/static/js/3.22ade9d6.chunk.js",
-    "static/js/3.22ade9d6.chunk.js.map": "/reactroute/static/js/3.22ade9d6.chunk.js.map",
-    "index.html": "/reactroute/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/reactroute/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.dc24fc8c.chunk.js.LICENSE.txt": "/reactroute/static/js/2.dc24fc8c.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.a617e044.chunk.css",
+    "main.js": "./static/js/main.04d1196d.chunk.js",
+    "main.js.map": "./static/js/main.04d1196d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f67d6c1e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f67d6c1e.js.map",
+    "static/js/2.dc24fc8c.chunk.js": "./static/js/2.dc24fc8c.chunk.js",
+    "static/js/2.dc24fc8c.chunk.js.map": "./static/js/2.dc24fc8c.chunk.js.map",
+    "static/js/3.22ade9d6.chunk.js": "./static/js/3.22ade9d6.chunk.js",
+    "static/js/3.22ade9d6.chunk.js.map": "./static/js/3.22ade9d6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a617e044.chunk.css.map": "./static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dc24fc8c.chunk.js.LICENSE.txt": "./static/js/2.dc24fc8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.487dcdb4.js",
+    "static/js/runtime-main.f67d6c1e.js",
     "static/js/2.dc24fc8c.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.04d1196d.chunk.js"
