@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reactroute/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactroute/static/js/main.bac08378.chunk.js",
-    "main.js.map": "/reactroute/static/js/main.bac08378.chunk.js.map",
+    "main.js": "/reactroute/static/js/main.40da1f94.chunk.js",
+    "main.js.map": "/reactroute/static/js/main.40da1f94.chunk.js.map",
     "runtime-main.js": "/reactroute/static/js/runtime-main.487dcdb4.js",
     "runtime-main.js.map": "/reactroute/static/js/runtime-main.487dcdb4.js.map",
-    "static/js/2.43fdf124.chunk.js": "/reactroute/static/js/2.43fdf124.chunk.js",
-    "static/js/2.43fdf124.chunk.js.map": "/reactroute/static/js/2.43fdf124.chunk.js.map",
+    "static/js/2.a32f2f86.chunk.js": "/reactroute/static/js/2.a32f2f86.chunk.js",
+    "static/js/2.a32f2f86.chunk.js.map": "/reactroute/static/js/2.a32f2f86.chunk.js.map",
     "static/js/3.22ade9d6.chunk.js": "/reactroute/static/js/3.22ade9d6.chunk.js",
     "static/js/3.22ade9d6.chunk.js.map": "/reactroute/static/js/3.22ade9d6.chunk.js.map",
     "index.html": "/reactroute/index.html",
     "static/css/main.a617e044.chunk.css.map": "/reactroute/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.43fdf124.chunk.js.LICENSE.txt": "/reactroute/static/js/2.43fdf124.chunk.js.LICENSE.txt"
+    "static/js/2.a32f2f86.chunk.js.LICENSE.txt": "/reactroute/static/js/2.a32f2f86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.487dcdb4.js",
-    "static/js/2.43fdf124.chunk.js",
+    "static/js/2.a32f2f86.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.bac08378.chunk.js"
+    "static/js/main.40da1f94.chunk.js"
   ]
 }
